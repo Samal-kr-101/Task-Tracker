@@ -200,7 +200,7 @@ http://localhost:5173
 
 ## 👨‍💻 Author
 
-**Samlu**
+**Samal Kumar**
 
 GitHub: https://github.com/Samal-kr-101/
 
