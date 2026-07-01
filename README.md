@@ -202,9 +202,9 @@ http://localhost:5173
 
 **Samlu**
 
-GitHub: https://github.com/your-github-username
+GitHub: https://github.com/Samal-kr-101/
 
-LinkedIn: https://linkedin.com/in/your-linkedin-profile
+LinkedIn: https://www.linkedin.com/in/samal-kumar-choudhary-0139582a9/
 
 ---
 
